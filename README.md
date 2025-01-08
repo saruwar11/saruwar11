@@ -61,13 +61,13 @@ I'm a **Front-End Developer** passionate about crafting sleek and responsive use
 ## 📂 Featured Projects
 Here are some of my favorite projects:  
 1. **[Personal Portfolio](https://github.com/saruwar11/portfolio)**: A showcase of my work and skills.  
-2. **[Discount PRO](https://github.com/saruwar11/discount-pro)**: A coupon-collecting app for e-commerce discounts.  
-3. **[E-Commerce Website](https://github.com/saruwar11/ecommerce-site)**: A fully responsive e-commerce platform.  
+2. **[Discount PRO](https://github.com/saruwar11/)**: A coupon-collecting app for e-commerce discounts.  
+3. **[E-Commerce Website](https://github.com/saruwar11/)**: A fully responsive e-commerce platform.  
 
 ---
 
 ## 🌐 Let's Connect
-- 📧 Email: **saruwar@example.com**  
+- 📧 Email: **saruwarhossain26@gmail.com**  
 - 🌐 LinkedIn: [linkedin.com/in/saruwar11](#)  
 - 🌟 GitHub: [github.com/saruwar11](https://github.com/saruwar11)  
 <div align="left">
@@ -78,6 +78,9 @@ Here are some of my favorite projects:
 </div>
 
 ###
+## 👀 Profile Views  
+![Profile Views](https://github.com/saruwar11)
+
 ---
 
 ✨ *"Passionate about creating impactful web experiences through code and design."*  
