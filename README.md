@@ -1,9 +1,5 @@
 <div align="center">
   <img height="200" src="https://avatars.githubusercontent.com/u/174789114?s=400&u=7d4542829c7bc07f880ce3b7311a14c98cb991d4&v=4"  />
-    <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
 ###
