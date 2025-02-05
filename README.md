@@ -77,11 +77,13 @@ I'm a **Front-End Developer** passionate about crafting sleek and responsive use
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects  
 Here are some of my favorite projects:  
-1. **[Personal Portfolio](https://github.com/saruwar11/)**: A showcase of my work and skills.  
+
+1. **[Personal Portfolio](https://my-portfolio-gamma-red-18.vercel.app/)**: A showcase of my work and skills.  
 2. **[Discount PRO](https://github.com/saruwar11/)**: A coupon-collecting app for e-commerce discounts.  
 3. **[E-Commerce Website](https://github.com/saruwar11/)**: A fully responsive e-commerce platform.  
+
 
 ---
 
