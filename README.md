@@ -17,12 +17,30 @@ I'm a **Front-End Developer** passionate about crafting sleek and responsive use
 
 ---
 
-## 💻 Tech Stack & Tools
-- **Languages:** JavaScript, HTML, CSS  
-- **Libraries & Frameworks:** React.js, Tailwind CSS, Node.js, Express.js
-- **Databases: MongoDB
-- **Version Control:** Git & GitHub  
-- **Tools:** VS Code, Daisy UI, Figma  
+# 💻 Tech Stack & Tools  
+
+## 🚀 Languages  
+- JavaScript  
+- HTML  
+- CSS  
+
+## 📦 Libraries & Frameworks  
+- React.js  
+- Tailwind CSS  
+- Node.js  
+- Express.js  
+
+## 🛢️ Database  
+- MongoDB  
+
+## 🔧 Version Control  
+- Git & GitHub  
+
+## 🛠️ Tools  
+- VS Code  
+- Daisy UI  
+- Figma  
+  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
