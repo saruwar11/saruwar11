@@ -19,7 +19,8 @@ I'm a **Front-End Developer** passionate about crafting sleek and responsive use
 
 ## 💻 Tech Stack & Tools
 - **Languages:** JavaScript, HTML, CSS  
-- **Libraries & Frameworks:** React.js, Tailwind CSS  
+- **Libraries & Frameworks:** React.js, Tailwind CSS, Node.js, Express.js
+- **Databases: MongoDB
 - **Version Control:** Git & GitHub  
 - **Tools:** VS Code, Daisy UI, Figma  
 <div align="left">
