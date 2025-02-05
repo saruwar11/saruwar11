@@ -82,7 +82,7 @@ Here are some of my favorite projects:
 
 1. **[Personal Portfolio](https://my-portfolio-gamma-red-18.vercel.app/)**: A showcase of my work and skills.  
 2. **[Game Review](https://chill-gamer-review.web.app/)**: A Game review app for game reviews.  
-3. **[E-Commerce Website](https://github.com/saruwar11/)**: A fully responsive e-commerce platform.  
+3. **[Blog Website](https://blog-website-7f900.firebaseapp.com/)**: A fully responsive Blog share platform.  
 
 
 ---
